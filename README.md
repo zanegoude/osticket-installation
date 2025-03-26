@@ -1,4 +1,5 @@
-<p align="center">
+@@ -1,37 +1,55 @@
+ <p align="center">
  <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
  </p>
  
