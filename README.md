@@ -21,7 +21,6 @@
   - Remote Desktop
   - Internet Information Services (IIS)
  
- <h2>Environments Used </h2>
  <h2>Operating Systems Used </h2>
  
  - Windows 10</b> (21H2)
