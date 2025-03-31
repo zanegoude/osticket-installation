@@ -16,6 +16,7 @@
  - Windows 10</b> (21H2)
  
  <h2>List of Prerequisites</h2>
+ ### [Prerequisite Download](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
  
  - Internet Information Services (IIS)
  - PHP Manager
@@ -24,7 +25,6 @@
  - MySQL
  - osTicket
  - HeidiSQL
-### [Prerequisite Download](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
  
  <h2>Installation Steps</h2>
  
