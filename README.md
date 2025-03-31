@@ -24,6 +24,7 @@
  - MySQL
  - osTicket
  - HeidiSQL
+### [Prerequisite Download](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
  
  <h2>Installation Steps</h2>
  
