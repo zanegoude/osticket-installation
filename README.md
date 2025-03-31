@@ -17,7 +17,7 @@
  
  <h2>List of Prerequisites</h2>
  
- ### [Prerequisite Download](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
+ ### [Collection of Prerequisite Downloads](https://drive.google.com/uc?export=download&id=1b3RBkXTLNGXbibeMuAynkfzdBC1NnqaD)
  
  - Internet Information Services (IIS)
  - PHP Manager
