@@ -10,6 +10,7 @@
   - Microsoft Azure (Virtual Machines)
   - Remote Desktop
   - Internet Information Services (IIS)
+  - osTicket
  
  <h2>Operating Systems Used </h2>
  
